@@ -1,3 +1,7 @@
+<p align="left">
+  <img src="https://github.com/Poornachandra77/Poornachandra77/blob/main/mine.jpeg" alt="Your Image" width="200" style="border-radius:50%">
+</p>
+
 ## Hi there 👋
 
 # 💫 About Me:
