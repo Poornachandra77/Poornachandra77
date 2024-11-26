@@ -83,10 +83,7 @@ Introducing myself in a single sentence:
 ---
 [![](https://visitcount.itsvg.in/api?id=Poornachandra77&icon=0&color=0)](https://visitcount.itsvg.in)
 
-![Banner](https://drive.google.com/file/d/1ujiHYjKZFTgUr-e6sT65d7_m-0Sw6GLW/view)
+![Alt Text](https://drive.google.com/file/d/1ujiHYjKZFTgUr-e6sT65d7_m-0Sw6GLW/view)
 
-<p align="center">
-  <img src="./path-to-your-image/profile-image.png" alt="Profile Image" width="300"/>
-</p>
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
