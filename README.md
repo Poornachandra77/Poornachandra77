@@ -62,13 +62,21 @@ Introducing myself in a single sentence:
 ![Jira](https://img.shields.io/badge/Jira-0052CC?style=flat&logo=jira&logoColor=white)
 ![Agile](https://img.shields.io/badge/Agile-5D4E8A?style=flat)
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=roburishabh&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=roburishabh&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=roburishabh&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+## 📊 GitHub Stats:
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=roburishabh&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YourUsername&show_icons=true&theme=radical)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YourUsername&layout=compact&theme=radical)
+
+![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=YourUsername&theme=radical)
+
+![Contributions](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=YourUsername&theme=radical)
+
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=YourUsername&theme=radical&hide_border=true)
+
+## 🏆 GitHub Trophies:
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=YourUsername&theme=radical&no-frame=true&margin-w=15)
+
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
