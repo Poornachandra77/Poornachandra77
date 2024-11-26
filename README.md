@@ -11,11 +11,9 @@ I am passionate about bridging the gap between raw data and decision-making by c
 Introducing myself in a single sentence:
 "I am a data enthusiast dedicated to transforming information into innovation."
 
-Introducing myself in a single sentence : "I am an Ordinary man with Extraordinary dreams".
-
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/roburishabh/) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/roburishabh/](https://www.linkedin.com/in/poornachandra-kongara/) 
 [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://www.youtube.com/@RobuRishabh) 
 [![Medium](https://img.shields.io/badge/Medium-%23000000.svg?logo=Medium&logoColor=white)](https://medium.com/@RobuRishabh)
 
