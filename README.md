@@ -13,7 +13,7 @@ Introducing myself in a single sentence:
 
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)]([(https://www.linkedin.com/in/poornachandra-kongara/)]) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)]([https://www.linkedin.com/in/poornachandra-kongara/]) 
 [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://www.youtube.com/@RobuRishabh) 
 [![Medium](https://img.shields.io/badge/Medium-%23000000.svg?logo=Medium&logoColor=white)](https://medium.com/@RobuRishabh)
 
