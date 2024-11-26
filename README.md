@@ -1,7 +1,7 @@
 <table>
   <tr>
     <td>
-      <img src="https://github.com/Poornachandra77/Poornachandra77/blob/main/mine.jpeg" alt="Your Image" width="250" style="border-radius:20%; margin-right:20px;">
+      <img src="https://github.com/Poornachandra77/Poornachandra77/blob/main/mine.jpeg" alt="Your Image" width="250" style="border-radius:40%; margin-right:20px;">
     </td>
     <td>
       <h1>Hi there 👋</h1>
@@ -14,21 +14,6 @@
     </td>
   </tr>
 </table>
-
-
-
-## Hi there 👋
-
-# 💫 About Me:
-Hello folks,
-I am Poornachandraprasad Kongara, a data analyst and engineer with over 3 years of experience in optimizing data pipelines, real-time data processing, and cloud-based ETL workflows. Currently pursuing a Master of Science in Information Systems at Northeastern University, I specialize in leveraging cutting-edge technologies to transform complex data into actionable business insights.
-
-My expertise includes developing scalable ETL pipelines, performing advanced data analysis with Python and cloud platforms like AWS and Azure, and creating impactful dashboards with Power BI and Tableau. My professional journey has seen me enhance operational efficiency, reduce manual workloads, and deliver data-driven solutions across industries, including pharmaceuticals, e-commerce, and academia.
-
-I am passionate about bridging the gap between raw data and decision-making by crafting efficient systems and processes that empower businesses to thrive in a data-driven world.
-
-Introducing myself in a single sentence:
-"I am a data enthusiast dedicated to transforming information into innovation."
 
 
 ## 🌐 Socials:
