@@ -64,18 +64,18 @@ Introducing myself in a single sentence:
 
 ## 📊 GitHub Stats:
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YourUsername&show_icons=true&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Poornachandra77&show_icons=true&theme=radical)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YourUsername&layout=compact&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Poornachandra77&layout=compact&theme=radical)
 
-![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=YourUsername&theme=radical)
+![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=Poornachandra77&theme=radical)
 
-![Contributions](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=YourUsername&theme=radical)
+![Contributions](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Poornachandra77&theme=radical)
 
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=YourUsername&theme=radical&hide_border=true)
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Poornachandra77&theme=radical&hide_border=true)
 
 ## 🏆 GitHub Trophies:
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=YourUsername&theme=radical&no-frame=true&margin-w=15)
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Poornachandra77&theme=radical&no-frame=true&margin-w=15)
 
 
 ### ✍️ Random Dev Quote
