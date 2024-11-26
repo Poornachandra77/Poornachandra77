@@ -77,10 +77,6 @@ Introducing myself in a single sentence:
 ## 🏆 GitHub Trophies:
 ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Poornachandra77&theme=radical&no-frame=true&margin-w=15)
 
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=Poornachandra77&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
