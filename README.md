@@ -2,7 +2,14 @@
 
 # 💫 About Me:
 Hello folks,
-I am Rishabh Singh, a passionate robotics enthusiast pursuing my Master of Science in Robotics at Northeastern University. With a strong skill set in programming, tools, and libraries, I have experience in designing telecom networks and developing wireless surveillance bots. My projects showcase my expertise in Autonomous systems, Computer Vision, Object detection & recognition, and sensor fusion. I am dedicated to pushing the boundaries of robotics and contributing to innovative advancements in the field.
+I am Poornachandraprasad Kongara, a data analyst and engineer with over 3 years of experience in optimizing data pipelines, real-time data processing, and cloud-based ETL workflows. Currently pursuing a Master of Science in Information Systems at Northeastern University, I specialize in leveraging cutting-edge technologies to transform complex data into actionable business insights.
+
+My expertise includes developing scalable ETL pipelines, performing advanced data analysis with Python and cloud platforms like AWS and Azure, and creating impactful dashboards with Power BI and Tableau. My professional journey has seen me enhance operational efficiency, reduce manual workloads, and deliver data-driven solutions across industries, including pharmaceuticals, e-commerce, and academia.
+
+I am passionate about bridging the gap between raw data and decision-making by crafting efficient systems and processes that empower businesses to thrive in a data-driven world.
+
+Introducing myself in a single sentence:
+"I am a data enthusiast dedicated to transforming information into innovation."
 
 Introducing myself in a single sentence : "I am an Ordinary man with Extraordinary dreams".
 
